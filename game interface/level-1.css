@@ -1,0 +1,60 @@
+body{
+   
+    background-color:blue;background-image:url("Leonardo_Vision_XL_need_a_scary_mysterious_door_1.jpg");background-repeat:no-repeat;background-position:center;
+    background-size:cover;
+}
+.heart
+{
+    float:left;
+}
+.line
+{
+    margin-bottom:10px;color:aqua;
+}
+.lifeline
+{
+    width:25%;
+    height:18px;
+    margin-left:60px;
+    background-color:green;
+    transform:translateY(-27px);
+}
+.number
+{   
+    width:10%;color:aqua;
+    transform:translate(350px,-40px);
+}
+.monster
+{
+    float:right;
+    transform:translateY(200px);
+}
+.hero
+{
+    transform:translate(130px,250px);
+}
+.fire
+{
+    float:right;transform:translate(10px,-10px);
+}
+.answer
+{
+    border-radius:5px;background-color:gray;
+    transform:translate(-5px,-80px);
+}
+.answer:hover
+{
+    background-color:aqua;
+}
+.question
+{
+    transform:translate(500px,-40px);
+}
+.attack
+{
+    transform:translateY(-70px);width:60px;height:20px;background-color: orange;
+}
+.correct
+{
+    background-color:blue;transform:translate(1000px,-200px);width:300px;height:20px;
+}

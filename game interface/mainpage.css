@@ -1,0 +1,55 @@
+body
+{
+    background-image:url("green-black-streaming-binary-code-260nw-2142051577.webp");background-size:cover;
+}
+.img
+{
+    border-radius:350px;margin-top:90px;
+}
+.game
+{
+    width:300px;height:50px;border-radius:20px;padding:5px;text-align:center;margin-top:-10px;margin-bottom:20px;background-color:orange;
+}
+.game:hover{
+    width:350px;height:60px;background-color:greenyellow;
+}
+.button1
+{
+    width:100px;height:50px;margin-top:100px;margin-bottom:10px;border-radius:20px;background-color:orange;
+} 
+.button2
+{
+    width:100px;height:50px;margin-top:50px;margin-bottom:10px;border-radius:20px;background-color:orange;
+}
+.button3
+{
+    width:100px;height:50px;margin-top:50px;margin-bottom:10px;border-radius:20px;background-color:orange;font-size:larger;
+}
+.button4
+{
+    width:100px;height:50px;margin-top:50px;margin-bottom:10px;border-radius:20px;background-color:orange;
+}
+.div
+{
+    display:flex;flex-direction:column;float:left;
+}
+.button1:hover
+{
+    background-color:greenyellow;
+}
+.button2:hover
+{
+   background-color:greenyellow;
+}
+.button3:hover
+{
+    background-color:greenyellow;
+}
+.button4:hover
+{
+   background-color:greenyellow;
+}
+#store
+{
+    color:black;
+}
